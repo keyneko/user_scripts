@@ -4,13 +4,14 @@
 // @description PingCode导出需求
 // @include http://*.pingcode.com/*
 // @include https://*.pingcode.com/*
-// @version 1.0.2
-// @require      https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.15.1/xlsx.full.min.js
+// @version 1.0.3
+// @require      https://cdn.bootcdn.net/ajax/libs/xlsx/0.18.5/xlsx.mini.min.js
 // @require      https://cdn.bootcdn.net/ajax/libs/lodash.js/4.17.21/lodash.min.js
 // @require      https://cdn.bootcdn.net/ajax/libs/jquery/3.6.1/jquery.min.js
 // @require      https://cdn.bootcdn.net/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js
 // @run-at document-end
 // @author Keyneko
+// @license MIT
 // @icon         data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAcCAMAAABBJv+bAAAAhFBMVEVnmf9mmP9hlP9jlv/v9f9klv/w9v9fk//9/v9pmv+62P9ckf/z+P/N3v/H2v/////y9/++2v+Yvf+Cq//1+f/J4f/E3//C3f+Frv93pf/r8//Q4P+21v+mx/+Tuf97p/9zof/3+/+81P+20f+rzP+KsP9snf/f6v/U5P+xy/+Nsv9+qP88iwroAAABC0lEQVQoz33TaY/CIBAGYF7OctS2ag+19V73+v//b+kaWwipEz5AHmYyJAMJAuMKQ+tIk0C4FZQld2alIl/bRWUiLz4BLGom3UktK3fljvrDgsrsixKAIOkKo27lr4ImInav5PCvG6vV+s5iB5C/lD36ZhCx2x+vjnsF3VWmHQQLXW0uvJR1RwnouTKmvRI6O4j6znhtmk4RiHtr+v2BhfmwN96b6qYFGavXslgxBOlQQ2NMdaLwXjvHi6P1EPi69aygbcddKSeevTEPpu2H28qpeORH5bV0kmerqbXZGfwTn5rMxfNIDxc+qpg0dHrel5Om4TnU1PPijRLVXd9OK1MINHUSKRJG9In+AI32Dei1Xz4EAAAAAElFTkSuQmCC
 // @run-at document-end
 // ==/UserScript==
